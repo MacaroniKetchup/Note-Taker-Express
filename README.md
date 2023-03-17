@@ -16,8 +16,8 @@
 ## Description
 This application is a simple note taker that allows you to title your notes as well as write text, and save it for later to access them at a later time, while being able to delete any previous notes from before!
 ## Heroku / Github Deployment
-[Github Repo](https://github.com/MacaroniKetchup/Note-Taker-Express)
-[Heroku]()
+- [Github Repo](https://github.com/MacaroniKetchup/Note-Taker-Express)
+- [Heroku](https://gentle-falls-91794.herokuapp.com/)
 ## Demo Video
 ![Note Taker Demo](./public/assets/img/note_taker_demo.gif)
 ## Installations
